@@ -1,11 +1,3 @@
-/kaggle-airline-df/input/DelayedFlights.csv
-/kaggle-airline-df/input/st99_d00.dbf
-/kaggle-airline-df/input/st99_d00.shp
-/kaggle-airline-df/input/st99_d00.shx
-/kaggle-airline-df/data-clean.csv
-/TimeSeries/us_energy.csv
-/TimeSeries/GreenhouseClimate.csv
-
 ### Python template
 # Custom files and folders to ignore
 *.egg-info
